@@ -1,0 +1,9 @@
+.stick{
+  position: absolute;
+  bottom: 0.5rem;
+  width: 92% !important ;
+}
+
+.card-text{
+  flex-wrap: nowrap !important;
+}

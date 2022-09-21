@@ -1,0 +1,33 @@
+.category-row{
+  /* border: 0.1rem solid black; */
+  /* margin-top: 1rem; */
+  margin: 1rem;
+  box-shadow: 2px 2px 10px 10px grey;
+  height: 30rem;
+}
+.best{
+  margin-top: 10%;
+}
+img{
+  height: 20rem;
+  width: 20rem;
+}
+
+.item{
+  padding: 2rem;
+}
+
+h6{
+  padding: 1rem;
+}
+
+.item-row {
+  flex-wrap: nowrap !important;
+  overflow: hidden;
+}
+
+.btn-warning{
+  width: 17rem !important;
+  margin: 0.2rem;
+}
+

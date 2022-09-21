@@ -1,0 +1,15 @@
+.carousel .thumbs-wrapper {
+  display: none !important;
+}
+.carousel_width{
+  width: auto;
+}
+img{
+  height: 40rem;
+}
+*{
+  -ms-overflow-style: none;
+}
+::-webkit-scrollbar {
+  display: none;
+}

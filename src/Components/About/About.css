@@ -1,0 +1,15 @@
+.code{
+  color: #1b2b3a;
+  /* text-decoration: underline; */
+}
+.gama{
+  color: #8dc53e;
+}
+.para{
+  text-indent: 5rem;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: justify;
+}
+.about{
+  font-size: 1.3rem;
+}

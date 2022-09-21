@@ -1,0 +1,25 @@
+.footer{
+  font-size: 1.2rem;
+  background-color: #2874f0;
+}
+
+.bg-color:hover{
+  color: #eada16;
+}
+
+.btn-warning{
+  color: white;
+}
+.logo{
+  height: 5rem;
+  width: 5rem;
+}
+.logo-row{
+  display: flex
+}
+.code{
+  color: #1b2b3a;
+}
+.gama{
+  color: #8dc53e;
+}

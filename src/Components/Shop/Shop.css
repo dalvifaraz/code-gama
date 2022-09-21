@@ -1,0 +1,13 @@
+.shop{
+  /* height: 50rem;s */
+  text-transform: uppercase
+}
+.shop-img{
+  width: 100%;
+  height: 90%;
+}
+.desp{
+  font-family: 'Courier New', Courier, monospace;
+  text-align: justify;
+  margin: 0.5rem;
+}

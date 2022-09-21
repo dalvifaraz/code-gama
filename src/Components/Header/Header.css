@@ -1,0 +1,57 @@
+.nav{
+  font-size: 1.2rem;
+  background-color: #2874f0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 0rem 2rem;
+}
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu li a {
+  display: block;
+  padding: 2rem 2rem;
+  color: white;
+}
+
+.menu li a:hover {
+  color: #eada16;
+}
+
+.logout{
+  display: flex;
+}
+
+.logo-row{
+  display: flex
+}
+
+.code{
+  color: #1b2b3a;
+  text-decoration: none;
+}
+.gama{
+  color: #8dc53e;
+}
+
+/* .logout li a {
+  padding: 1rem 1rem;
+} */
+
+/* .nav .logo{
+  padding-left: 1rem;
+} */
+.logo-img{
+  height: 5rem;
+  width: 5rem;
+}
+
+/* .dropdown-content{
+  display: block;
+} */
